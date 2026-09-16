@@ -1,0 +1,7 @@
+id = "forest-theme"
+name = "Forest"
+version = "0.1.0"
+schema_version = 1
+authors = ["Dalpat Singh"]
+description = "Forest Dark and Forest Light: deep woodland greens and warm ivory with gold and teal syntax colors."
+repository = "https://github.com/dalpat/zed-forest"
