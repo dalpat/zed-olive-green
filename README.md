@@ -5,6 +5,18 @@ Two nature-inspired themes for [Zed](https://zed.dev):
 - **Forest Dark** — deep green backgrounds, soft ivory text, lime keywords, warm gold strings, and pale teal variables.
 - **Forest Light** — warm ivory backgrounds, forest-green text, olive keywords, ochre strings, and deep teal variables.
 
+## Previews
+
+### Forest Dark
+
+![Forest Dark code preview with a deep green background and gold and teal PHP syntax](assets/forest-dark.png)
+
+### Forest Light
+
+![Forest Light code preview with a warm ivory background and olive and teal PHP syntax](assets/forest-light.png)
+
+Rendered code previews using the theme palette and Fira Code. Zed’s interface and language highlighting may differ.
+
 ## Install now
 
 Copy `themes/forest.json` into `~/.config/zed/themes/`, then restart Zed and select **Forest Dark** or **Forest Light** using `theme selector: toggle`.
