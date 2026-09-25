@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "Forest",
+  "name": "Olive Green",
   "author": "Dalpat Singh",
   "themes": [
     {
-      "name": "Forest Dark",
+      "name": "Olive Green Dark",
       "appearance": "dark",
       "style": {
         "background": "#1f322a",
@@ -360,7 +360,7 @@
       }
     },
     {
-      "name": "Forest Light",
+      "name": "Olive Green Light",
       "appearance": "light",
       "style": {
         "background": "#eff1e7",

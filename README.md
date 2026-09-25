@@ -1,29 +1,29 @@
-# Forest for Zed
+# Olive Green for Zed
 
 Two nature-inspired themes for [Zed](https://zed.dev):
 
-- **Forest Dark** — deep green backgrounds, soft ivory text, lime keywords, warm gold strings, and pale teal variables.
-- **Forest Light** — warm ivory backgrounds, forest-green text, olive keywords, ochre strings, and deep teal variables.
+- **Olive Green Dark** — deep green backgrounds, soft ivory text, lime keywords, warm gold strings, and pale teal variables.
+- **Olive Green Light** — warm ivory backgrounds, forest-green text, olive keywords, ochre strings, and deep teal variables.
 
 ## Previews
 
-### Forest Dark
+### Olive Green Dark
 
-![Forest Dark code preview with a deep green background and gold and teal PHP syntax](assets/forest-dark.png)
+![Olive Green Dark code preview with a deep green background and gold and teal PHP syntax](assets/olive-green-dark.png)
 
-### Forest Light
+### Olive Green Light
 
-![Forest Light code preview with a warm ivory background and olive and teal PHP syntax](assets/forest-light.png)
+![Olive Green Light code preview with a warm ivory background and olive and teal PHP syntax](assets/olive-green-light.png)
 
 Rendered code previews using the theme palette and Fira Code. Zed’s interface and language highlighting may differ.
 
 ## Install now
 
-Copy `themes/forest.json` into `~/.config/zed/themes/`, then restart Zed and select **Forest Dark** or **Forest Light** using `theme selector: toggle`.
+Copy `themes/olive-green.json` into `~/.config/zed/themes/`, then restart Zed and select **Olive Green Dark** or **Olive Green Light** using `theme selector: toggle`.
 
 Alternatively, clone this repository and run `zed: install dev extension`, selecting the repository directory.
 
-Registry publication is pending. Once accepted, search for **Forest** in Zed Extensions.
+Registry publication is pending. Once accepted, search for **Olive Green** in Zed Extensions.
 
 ## Follow system appearance
 
@@ -33,8 +33,8 @@ Merge this into your Zed settings:
 {
   "theme": {
     "mode": "system",
-    "light": "Forest Light",
-    "dark": "Forest Dark"
+    "light": "Olive Green Light",
+    "dark": "Olive Green Dark"
   }
 }
 ```
